@@ -1,0 +1,30 @@
+#cabeceraweb{
+    background-color: aqua;
+}
+#navegacionPrincipal{
+ background-color: blueviolet;
+}
+
+#barraLateral{
+    background-color: deeppink;
+    clear: both;
+    margin-top: 50px;
+    
+}
+
+#selectorPrincipal{
+    background-color: mediumvioletred;
+    float: left;
+    height: 1040px;
+}
+
+#piePrincipal{
+    background-color: hotpink;
+    margin-left: 200px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+li{
+    background-color: darkorange;
+    display: inline;
+}
