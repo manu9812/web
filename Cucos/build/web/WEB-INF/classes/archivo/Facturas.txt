@@ -1,0 +1,2 @@
+Andres Rodriguez;3214453432;Calle 56 # 34 56;1;8500;102000;Tangas;12
+Laura Camila;3451234532;Avenida 12 # 45 67;2;12300;12300;Cucos;1
